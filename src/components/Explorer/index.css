@@ -1,0 +1,40 @@
+img {
+  width: 30px;
+  height: 25px;
+}
+
+.explorer {
+  margin-left: 25px;
+  margin-top: 10px;
+}
+
+.options {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.options > img {
+  margin-left: 20px;
+}
+
+.content {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.content > img {
+  margin-right: 5px;
+}
+
+.addFolder,
+.emptyFolder {
+  height: 22px;
+  width: 22px;
+}
+
+.addFile {
+  height: 17px;
+  width: 22px;
+}
